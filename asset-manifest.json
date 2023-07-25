@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-beginner-project/static/css/main.deec2861.css",
+    "main.js": "/react-beginner-project/static/js/main.ca227e00.js",
+    "static/js/787.d3befce1.chunk.js": "/react-beginner-project/static/js/787.d3befce1.chunk.js",
+    "static/media/dark logo.png": "/react-beginner-project/static/media/dark logo.4771d8b1436e87b91aa4.png",
+    "static/media/project log.png": "/react-beginner-project/static/media/project log.7937fb3ba223b3f1c9d6.png",
+    "index.html": "/react-beginner-project/index.html",
+    "main.deec2861.css.map": "/react-beginner-project/static/css/main.deec2861.css.map",
+    "main.ca227e00.js.map": "/react-beginner-project/static/js/main.ca227e00.js.map",
+    "787.d3befce1.chunk.js.map": "/react-beginner-project/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deec2861.css",
+    "static/js/main.ca227e00.js"
+  ]
+}
